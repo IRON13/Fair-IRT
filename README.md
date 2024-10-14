@@ -15,4 +15,4 @@
 5. **Fair-IRT_Law.pdf** shows code and results from Section 5.2. (Please download and open it with Adobe Reader)
 6. **Fair-IRT_Adult_race.pdf** shows code and results from Appendix A.3.3. (Please download and open it with Adobe Reader)
 7. **Fair-IRT_Adult_ES.pdf** shows code and results from Appendix A.3.4. (Please download and open it with Adobe Reader)
-8. **Model&Res** shows the detailed predictive models from the AutoML platform along with the prediction results.
+8. **Model** shows the detailed predictive models from the AutoML platform.
