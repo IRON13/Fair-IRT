@@ -1,5 +1,7 @@
 # Fair-IRT Framework
 
+Fair-IRT is a framework that applies Item Response Theory to evaluate the fairness of machine learning models. It jointly models a model’s predictive ability and the difficulty and discrimination of individuals. The method enhances fairness analysis and interpretability through item characteristic curves.
+
 ## Files and Descriptions
 
 1. **irt.py** and **irt_special.py** are the backbone of the Fair-IRT framework.
